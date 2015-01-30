@@ -22,3 +22,6 @@ A simple home made PHP/MySQL login script to protect your web page content from 
     Forgot password option (resetting password for users)
     Change Password option for users
     Neatly formatted error Messages
+# Installation
+Open dbc.php and enter the correct database and mail settings. Look through the php files for full documentation.
+
