@@ -24,4 +24,6 @@ A simple home made PHP/MySQL login script to protect your web page content from 
     Neatly formatted error Messages
 # Installation
 Open dbc.php and enter the correct database and mail settings. Look through the php files for full documentation.
+#Update
+Please note that this project has been abandoned by the author and has not been updated for several years. Use of this script is at your own security risk.
 
